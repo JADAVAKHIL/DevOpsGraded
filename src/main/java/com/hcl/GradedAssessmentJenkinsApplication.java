@@ -8,8 +8,7 @@ public class GradedAssessmentJenkinsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GradedAssessmentJenkinsApplication.class, args);
-		System.out.println("Hello Dev-Ops");
-		System.out.println("Hello jenkins");
+		System.out.println("Hello  Dev-Ops");
 	}
 
 }
